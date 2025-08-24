@@ -34,4 +34,9 @@ In conclusion, the Automated Report Generation task by Codtech is not just a pro
 OUTPUT :
 
 
+<img width="770" height="865" alt="Image" src="https://github.com/user-attachments/assets/b23497c0-bf1f-4b3e-89d4-3450a751cc72" />
+
+<img width="672" height="477" alt="Image" src="https://github.com/user-attachments/assets/f7a9f09f-b3a8-42ec-9c94-aed29583093d" />
+
+
     
